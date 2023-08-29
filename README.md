@@ -1,7 +1,3 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/monstar911)](https://github.com/monstar911)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiro-masumi-9b5764254/)](https://www.linkedin.com/in/shiro-masumi-9b5764254/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:monstar911001@gmail.com)](mailto:monstar911001@gmail.com)
-
 ### :wave: About me
 
 ##### A technology professional with 5+ years of experience in the blockchain industry, I specialize in the development of secure and reliable distributed ledger applications and smart contracts. I am highly skilled in Ethereum, Aptos, Hyperledger Fabric, Polkadot, and other distributed ledger technologies. Additionally, I have experience building and managing blockchain networks, developing core components and custom modules, deploying and operating blockchain nodes, and creating BaaS functionality for enterprise customers. My skillset also includes working with Solidity, Golang, Rust, Move, Cosmos SDK, CosmWasm, DeFi, DEX, ICO, and Multi-Chain architecture. Try to learn new things and update knowledge. Committed to the clients and always work with 100% client's satisfaction. 📚
