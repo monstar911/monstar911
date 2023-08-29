@@ -1,17 +1,12 @@
-### :wave: About me
-
-##### A technology professional with 5+ years of experience in the blockchain industry, I specialize in the development of secure and reliable distributed ledger applications and smart contracts. I am highly skilled in Ethereum, Aptos, Hyperledger Fabric, Polkadot, and other distributed ledger technologies. Additionally, I have experience building and managing blockchain networks, developing core components and custom modules, deploying and operating blockchain nodes, and creating BaaS functionality for enterprise customers. My skillset also includes working with Solidity, Golang, Rust, Move, Cosmos SDK, CosmWasm, DeFi, DEX, ICO, and Multi-Chain architecture. Try to learn new things and update knowledge. Committed to the clients and always work with 100% client's satisfaction. 📚
-
-
 ### 🍯 Technical Stack
 
-- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
-- ⚡ Go 𒑰 Rust 𒑰 JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
+- ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 Go 𒑰 Rust 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
 - 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
 - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO
 - 🏹 Chrome extension with React & Redux
 - 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Git 𒑰 Slack 𒑰 Jira
 - 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
+- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
 
 
 ### 🚀 Technologies and Tools ⚙
