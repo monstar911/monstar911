@@ -1,12 +1,12 @@
 ### 🍯 Technical Stack
 
-- ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 Go 𒑰 Rust 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
-- 🥇 React 𒑰 Next.js 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
-- 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO
+- ⚡ JavaScript 𒑰 Typescript 𒑰 Go 𒑰 Rust 𒑰 C++ 𒑰 Python
+- 🥇 React 𒑰 Next.js 𒑰 Tailwind CSS 𒑰 Material UI 𒑰 Chakra UI 𒑰 Semantic UI
+- 🎒 Node.js 𒑰 Express.js 𒑰 Nest.js 𒑰 Socket.IO
 - 🏹 Chrome extension with React & Redux
-- 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Git 𒑰 Slack 𒑰 Jira
-- 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
-- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Rust 𒑰 Web3.js 𒑰 Ethers.js
+- 🌎 MySQL 𒑰 PostgreSQL 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB
+- 🚩 Git 𒑰 CI/CD 𒑰 Docker 𒑰 Kubernetes 𒑰 AWS 𒑰 GCP
+- 💰 Web3.js 𒑰 Ethers.js 𒑰 Solidity 𒑰 Rust 𒑰 DeFi 𒑰 Web3 Telegram bot 𒑰 NFT
 
 
 ### 🚀 Technologies and Tools ⚙
