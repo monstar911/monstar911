@@ -1,3 +1,6 @@
+##### Senior Full Stack and Blockchain Engineer
+
+
 ### 🍯 Technical Stack
 
 - ⚡ JavaScript 𒑰 Typescript 𒑰 Go 𒑰 Rust 𒑰 C++ 𒑰 Python
