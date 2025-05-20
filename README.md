@@ -3,14 +3,13 @@
 
 ### 🍯 Technical Stack
 
-- ⚡ JavaScript 𒑰 Typescript 𒑰 Go 𒑰 Rust 𒑰 C++ 𒑰 Python
-- 🥇 React 𒑰 Next.js 𒑰 Tailwind CSS 𒑰 Material UI 𒑰 Chakra UI 𒑰 Semantic UI
-- 🎒 Node.js 𒑰 Express.js 𒑰 Nest.js 𒑰 Socket.IO
-- 🏹 Chrome extension with React & Redux
-- 🌎 MySQL 𒑰 PostgreSQL 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB
-- 🚩 Git 𒑰 CI/CD 𒑰 Docker 𒑰 Kubernetes 𒑰 AWS 𒑰 GCP
+- ⚡ JavaScript 𒑰 Typescript 𒑰 Python 𒑰 PHP 𒑰 Go 𒑰 Rust 𒑰 C++ 𒑰 HTML5 𒑰 CSS3
+- 🥇 React 𒑰 React Native 𒑰 Next.js 𒑰 Vue 𒑰 Nuxt.js 𒑰 Tailwind CSS 𒑰 Material UI 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Redux
+- 🎒 Node.js 𒑰 Express.js 𒑰 Nest.js 𒑰 FastAPI 𒑰 Flask 𒑰 Django 𒑰 Larabel 𒑰 Gin 𒑰 Echo 𒑰 Socket.IO
+- 🌎 MySQL 𒑰 PostgreSQL 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Redis 𒑰 TypeORM 𒑰 Elasticsearch 𒑰 BigQuery 𒑰 AWS S3
+- 🚩 Git 𒑰 CI/CD 𒑰 Docker 𒑰 Kubernetes 𒑰 Jenkins 𒑰 Ansible 𒑰 Terraform 𒑰 AWS 𒑰 GCP
 - 💰 Web3.js 𒑰 Ethers.js 𒑰 Solidity 𒑰 Rust 𒑰 DeFi 𒑰 Web3 Telegram bot 𒑰 NFT
-
+- 🏹 Playwright 𒑰 Jest 𒑰 Cypress 𒑰 Storybook 𒑰 Mocha 𒑰 Datadog 𒑰 Google Analytics
 
 ### 🚀 Technologies and Tools ⚙
 
