@@ -1,4 +1,4 @@
-## Senior Full Stack and Blockchain Engineer
+## Senior Software Engineer ( Full Stack | AI & Web3 )
 
 
 ### 🍯 Technical Stack
