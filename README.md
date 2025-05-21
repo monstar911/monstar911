@@ -9,6 +9,7 @@
 - 🌎 MySQL 𒑰 PostgreSQL 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Redis 𒑰 TypeORM 𒑰 Elasticsearch 𒑰 BigQuery 𒑰 AWS S3
 - 🚩 Git 𒑰 CI/CD 𒑰 Docker 𒑰 Kubernetes 𒑰 Jenkins 𒑰 Ansible 𒑰 Terraform 𒑰 AWS 𒑰 GCP
 - 💰 Web3.js 𒑰 Ethers.js 𒑰 Solidity 𒑰 Rust 𒑰 DeFi 𒑰 Web3 Telegram bot 𒑰 NFT
+- 🧠 OpenAI 𒑰 Langchain 𒑰 TensorFlow 𒑰 PyTorch
 - 🏹 Playwright 𒑰 Jest 𒑰 Cypress 𒑰 Storybook 𒑰 Mocha 𒑰 Datadog 𒑰 Google Analytics
 
 ### 🚀 Technologies and Tools ⚙
