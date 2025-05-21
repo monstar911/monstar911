@@ -1,7 +1,8 @@
 ## Senior Software Engineer ( Full Stack | AI & Web3 )
 
+Dynamic Senior Software Engineer with over 9 years of experience in delivering innovative software solutions that drive business success. Proficient in modern JavaScript and Python frameworks, leveraging cutting-edge technologies including AI and Web3 to create scalable B2B/B2C and SaaS applications. Detail-oriented and focused on simplicity and efficiency, I thrive in fast-paced startup environments, consistently delivering high-quality code and innovative solutions.
 
-### 🍯 Technical Stack
+### 🛠️ Technical Stack
 
 - ⚡ JavaScript 𒑰 Typescript 𒑰 Python 𒑰 PHP 𒑰 Go 𒑰 Rust 𒑰 C++ 𒑰 HTML5 𒑰 CSS3
 - 🥇 React 𒑰 React Native 𒑰 Next.js 𒑰 Vue 𒑰 Nuxt.js 𒑰 Tailwind CSS 𒑰 Material UI 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Redux
